@@ -1,0 +1,38 @@
+
+
+========OOP=======
+
+O = Object
+O = Oriented
+p = Programming
+
+
+Procedural Method
+
+===OOP===
+1.Reuseability
+2.Clean Code
+3.Dependency (Chain of Command)
+
+=>Class & Object
+
+Blue-Print (Drawing)
+
+1. Display
+2. Processsor
+3. Camera
+4. Color
+5. RAM
+6. ROM
+=======Phone=====
+=>Phone
+1. Display (AMOLED)
+2. Processor (Snap Dragon)
+3. Camera (64PX)
+4. Color (Silver)
+5. RAM (16GB)
+6. ROM (280GB)
+
+======Class====
+1.Properties
+2.Methods
